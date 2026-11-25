@@ -1,0 +1,23 @@
+Pontos de entrada MVC
+
+https://tdn.totvs.com/display/public/PROT/Pontos+de+Entrada+para+fontes+Advpl+desenvolvidos+utilizando+o+conceito+MVC
+
+Identificando uma rotina MVC
+
+https://centraldeatendimento.totvs.com/hc/pt-br/articles/360016345572-MP-ADVPL-Como-validar-se-uma-rotina-est%C3%A1-em-MVC
+
+Ponto de Entrada Padrão do MVC
+
+https://tdn.totvs.com/pages/releaseview.action?pageId=208345968
+
+MP - ADVPL - Ponto de entrada MVC para as rotinas MATA010, MATA020 e MATA030
+
+https://centraldeatendimento.totvs.com/hc/pt-br/articles/360016405952-MP-ADVPL-PONTO-DE-ENTRADA-MVC-PARA-AS-ROTINAS-MATA010-MATA020-E-MATA030
+
+MP - ADVPL - Pontos de Entrada MVC MATA030 na P12
+
+https://centraldeatendimento.totvs.com/hc/pt-br/articles/360000146128-MP-ADVPL-Pontos-de-Entrada-MVC-MATA030-na-P12
+
+FONTES QUE ESTAO EM MVC
+
+https://tdn.totvs.com/display/public/PROT/Fontes+em+MVC

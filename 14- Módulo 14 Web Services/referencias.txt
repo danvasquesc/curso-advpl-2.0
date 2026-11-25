@@ -1,0 +1,20 @@
+Referências
+
+?https://tdn.totvs.com/display/tec/WSSTRUCT
+
+https://tdn.totvs.com/display/tec/ENDWSSTRUCT
+
+https://tdn.totvs.com/display/tec/WSSERVICE
+
+https://tdn.totvs.com/display/tec/WSDATA
+
+https://tdn.totvs.com/display/tec/WSMETHOD
+
+https://tdn.totvs.com/display/tec/WSCLIENT
+
+WSDL(Web Services Description Language) 
+
+https://centraldeatendimento.totvs.com/hc/pt-br/articles/360015391651-MP-ADVPL-ERRO-AO-GERAR-FONTE-ADVPL
+
+WSDL DOS CORREIOS
+https://apps.correios.com.br/SigepMasterJPA/AtendeClienteService/AtendeCliente?wsdl

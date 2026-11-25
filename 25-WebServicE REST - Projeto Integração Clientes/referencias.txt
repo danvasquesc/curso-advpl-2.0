@@ -1,0 +1,21 @@
+CLASSE WSRESTFUL
+
+https://tdn.totvs.com/display/framework/WSRESTFUL
+
+https://centraldeatendimento.totvs.com/hc/pt-br/articles/360015298272-MP-ADVPL-WSRESTFUL-DESCRIPTION
+
+https://tdn.totvs.com/pages/viewpage.action?pageId=75269436
+
+CLASSE WSMETHOD
+
+https://tdn.totvs.com/pages/viewpage.action?pageId=75269461
+
+https://tdn.totvs.com/pages/viewpage.action?pageId=75269436
+
+Json
+
+https://tdn.totvs.com/display/tec/Classe+JsonObject
+
+https://tdn.totvs.com/display/tec/JsonObject%3ANew
+
+https://centraldeatendimento.totvs.com/hc/pt-br/articles/360037255174-MP-ADVPL-FWJSONSERIALIZE

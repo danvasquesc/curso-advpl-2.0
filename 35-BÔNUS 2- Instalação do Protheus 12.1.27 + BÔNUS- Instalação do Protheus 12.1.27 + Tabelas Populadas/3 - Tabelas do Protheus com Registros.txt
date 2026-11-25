@@ -1,0 +1,5 @@
+Tabelas do Protheus com Registros
+?Faça o Download das tabelas
+Adicione à uma pasta no diretório  \data
+Apende os registros Ctree 
+Tenha uma base de testes com registros
